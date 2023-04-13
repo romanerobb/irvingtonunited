@@ -57,6 +57,11 @@ P {
     color: #000000;
 }
 
+.custom-toggler.navbar-toggler {
+    border-color: lightgreen;
+    color:#000
+}
+
 .download-button {
     margin: 2% 2% 2% 0%;
 }
